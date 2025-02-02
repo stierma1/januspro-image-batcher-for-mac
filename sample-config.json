@@ -1,0 +1,18 @@
+[
+    {
+        "prompt": "Robot casually coding in a coffee store",
+        "fileNameTemplate": "coffee-store-robot-{#}.jpg",
+        "temperature": 1,
+        "seed": 12345,
+        "guidance": 8,
+        "number_of_samples": 3
+    },
+    {
+        "prompt": "Robot wearing a suit",
+        "fileNameTemplate": "suited-robot-{#}.jpg",
+        "temperature": 1,
+        "seed": 12345,
+        "guidance": 8,
+        "number_of_samples": 3
+    }
+]

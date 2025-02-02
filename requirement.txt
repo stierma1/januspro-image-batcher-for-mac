@@ -1,0 +1,7 @@
+torch
+torchvision
+timm>=0.9.16
+transformers
+Image
+attrdict
+einops
