@@ -53,11 +53,11 @@ python main.py --config ./path/to/config.json --output ./output/directory
 ## Performance
 
 The tool has been tested on a Macbook Pro M4 Max (2024) with the following specifications:
-- Apple M1 Max chip (16-core CPU, 40-core GPU)
+- Apple M4 Max chip (16-core CPU, 40-core GPU)
 - 48GB unified memory
 - macOS sequoia 15.0+
 
-On this hardware, generating 6 images (3 prompts × 2 variations each) takes 100 seconds assuming the model is already downloaded
+On this hardware, generating 6 images (2 prompts × 3 candidates each) takes 100 seconds assuming the model is already downloaded
 
 ## Contributing
 
